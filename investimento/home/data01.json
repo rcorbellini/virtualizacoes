@@ -1,36 +1,16 @@
 {
   "walletBalance": 1000.00,
-  "performanceGraphs": [
-    {
-      "title": "My Portfolio",
-      "dataPoints": [
-        {
-          "x": 0,
-          "y": 100
-        },
-        {
-          "x": 1,
-          "y": 150
-        },
-        {
-          "x": 2,
-          "y": 200
-        }
-      ]
-    }
-  ],
   "productDistribution": {
-    "Stocks": 50.0,
-    "Bonds": 30.0,
-    "Cash": 20.0
+    "Fundos de investimentos": 50.0,
+    "Tesouro direto": 30.0,
+    "Ações": 20.0
   },
   "recentTransactions": [
     {
       "date": "2023-04-01",
-      "description": "Bought 100 shares of AAPL",
-      "amount": 1000.00
+      "description": "comprou 100 ações da AAPL",
+      "amount": 1005.00
     }
   ],
-  "investmentAccountBalance": 5000.00,
   "chartType": "LINE"
 }

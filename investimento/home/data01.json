@@ -10,6 +10,11 @@
       "date": "2023-04-01",
       "description": "comprou 100 ações da AAPL",
       "amount": 1005.00
+    },
+    {
+      "date": "2023-03-02",
+      "description": "comprou 20 ações do ITUB4",
+      "amount": 400.50
     }
   ],
   "chartType": "LINE"
